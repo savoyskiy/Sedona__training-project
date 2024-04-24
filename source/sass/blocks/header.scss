@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  min-height: 56px;
+  width: 100%;
+  background-color: $back-first;
+
+  &--no-js {
+    padding-bottom: 56px;
+  }
+}
+
+@media (min-width: $tablet) {
+  .header--no-js {
+    padding-bottom: 0;
+  }
+}

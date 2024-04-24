@@ -1,0 +1,18 @@
+// общие стили
+@import "colors.scss";
+@import "fonts.scss";
+@import "commons.scss";
+
+// общие блоки
+@import "blocks/page.scss";
+@import "blocks/page-body.scss";
+@import "blocks/header.scss";
+@import "blocks/navigation.scss";
+@import "blocks/footer.scss";
+
+// блоки на страницах
+@import "blocks/map.scss";
+@import "blocks/hotel-search.scss";
+@import "blocks/recommendations.scss";
+@import "blocks/reasons.scss";
+@import "blocks/hero.scss";
