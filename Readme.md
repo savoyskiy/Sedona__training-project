@@ -1,6 +1,6 @@
 # Личный проект «Sedona» 
 
-* Студент: [{savoyskiy}]({{https://github.com/savoyskiy}}).
+* Студент: [savoyskiy](https://github.com/savoyskiy).
 * Наставник: `Нет`.
 
 ---
